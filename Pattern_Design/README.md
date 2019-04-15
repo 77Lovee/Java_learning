@@ -12,3 +12,13 @@
 -  [Average 继承MyArray, 具有求均值方法](https://github.com/jvxiao/Java_learning/blob/master/Pattern_Design/Exp1/Ques8_3.java)
 -  [Cube, Sphere和Cylinder继承Container类（抽象类)](https://github.com/jvxiao/Java_learning/blob/master/Pattern_Design/Exp1/Ques9.java)
 <br/><br/>Exp/given/ 中的是已给程序，用于运行测试。
+
+## [实验二](https://github.com/jvxiao/Java_learning/tree/master/Pattern_Design/Exp2)
+-  [女娲造人](https://github.com/jvxiao/Java_learning/tree/master/Pattern_Design/Exp2/Ques1)
+-  [几何图形](https://github.com/jvxiao/Java_learning/tree/master/Pattern_Design/Exp2/Ques2)
+-  [图片读取器](https://github.com/jvxiao/Java_learning/tree/master/Pattern_Design/Exp2/Ques3)
+-  [数据库的统一性](https://github.com/jvxiao/Java_learning/tree/master/Pattern_Design/Exp2/Ques54)
+-  [快餐搭配](https://github.com/jvxiao/Java_learning/tree/master/Pattern_Design/Exp2/Ques5)
+-  [大高个与小矮人](https://github.com/jvxiao/Java_learning/tree/master/Pattern_Design/Exp2/Ques7)
+-  [多媒体模式切换](https://github.com/jvxiao/Java_learning/tree/master/Pattern_Design/Exp2/Ques8)
+-  [深克隆与浅克隆](https://github.com/jvxiao/Java_learning/tree/master/Pattern_Design/Exp2/Ques9)
